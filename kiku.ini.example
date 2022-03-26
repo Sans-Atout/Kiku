@@ -1,0 +1,13 @@
+[database]
+name=
+password=
+
+[host_info]
+host=
+port=
+db_name=
+
+[log]
+path=
+prod_env=
+extension=
